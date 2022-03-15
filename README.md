@@ -1,4 +1,4 @@
-<h1 align="center">Object Detection</h1>
+<h1 align="center">Simple Object Detection</h1>
 
 ![Image](object-detection-review.png)
 
