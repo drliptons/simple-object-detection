@@ -37,7 +37,7 @@ on the same [COCO 2017](https://cocodataset.org/) dataset.
 
 <small>***All tests are performed on a local machine***</small>
 
-##<b>Features</b>
+## Features
 
 - Prepare class list of COCO 2017 Dataset
   - load class name into a list as assign a color for each class
@@ -51,5 +51,5 @@ on the same [COCO 2017](https://cocodataset.org/) dataset.
 - Detect object(s) live from a webcam feed
 
 
-###<b>Change Log</b>
+## Change Log
 * 15.03.2022: First commit
